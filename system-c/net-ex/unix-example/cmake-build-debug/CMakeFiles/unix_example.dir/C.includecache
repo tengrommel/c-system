@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/teng/development/c/system-c/net-ex/unix-example/main.c
+sys/socket.h
+-
+netdb.h
+-
+ifaddrs.h
+-
+stdio.h
+-
+

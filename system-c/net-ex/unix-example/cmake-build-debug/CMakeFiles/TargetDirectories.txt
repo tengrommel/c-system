@@ -1,0 +1,3 @@
+/home/teng/development/c/system-c/net-ex/unix-example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/teng/development/c/system-c/net-ex/unix-example/cmake-build-debug/CMakeFiles/unix_example.dir
+/home/teng/development/c/system-c/net-ex/unix-example/cmake-build-debug/CMakeFiles/edit_cache.dir
